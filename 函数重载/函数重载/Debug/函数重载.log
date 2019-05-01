@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/5/1 10:03:42。
+     1>项目“E:\experience\比特c语言\函数重载\函数重载\函数重载.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\experience\比特c语言\函数重载\函数重载\test.cpp(74): error C2440: “初始化”: 无法从“double”转换为“int &”
+     1>e:\experience\比特c语言\函数重载\函数重载\test.cpp(75): error C2373: “rd”: 重定义；不同的类型修饰符
+                 e:\experience\比特c语言\函数重载\函数重载\test.cpp(74) : 参见“rd”的声明
+     1>e:\experience\比特c语言\函数重载\函数重载\test.cpp(75): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>已完成生成项目“E:\experience\比特c语言\函数重载\函数重载\函数重载.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29
