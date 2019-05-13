@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++内联函数章节", "c++内联函数章节\c++内联函数章节.vcxproj", "{4ED95EB1-D638-4D9E-808F-FD46FD73B03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED95EB1-D638-4D9E-808F-FD46FD73B03C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4ED95EB1-D638-4D9E-808F-FD46FD73B03C}.Debug|Win32.Build.0 = Debug|Win32
+		{4ED95EB1-D638-4D9E-808F-FD46FD73B03C}.Release|Win32.ActiveCfg = Release|Win32
+		{4ED95EB1-D638-4D9E-808F-FD46FD73B03C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
