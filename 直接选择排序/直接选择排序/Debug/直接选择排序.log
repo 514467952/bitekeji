@@ -1,0 +1,10 @@
+﻿生成启动时间为 2019/4/17 21:24:41。
+     1>项目“E:\experience\比特c语言\直接选择排序\直接选择排序\直接选择排序.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\experience\比特c语言\直接选择排序\Debug\直接选择排序.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\experience\比特c语言\直接选择排序\Debug\直接选择排序.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\experience\比特c语言\直接选择排序\Debug\直接选择排序.lib" /MACHINE:X86 Debug\test.obj
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“E:\experience\比特c语言\直接选择排序\直接选择排序\直接选择排序.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.59
