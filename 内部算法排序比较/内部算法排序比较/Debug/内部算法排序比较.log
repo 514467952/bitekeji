@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/6/26 16:11:07。
+     1>项目“E:\experience\比特c语言\内部算法排序比较\内部算法排序比较\内部算法排序比较.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\experience\比特c语言\内部算法排序比较\内部算法排序比较\总头文件.h(30): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\experience\比特c语言\内部算法排序比较\内部算法排序比较\main.cpp(18): warning C4101: “j”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\experience\比特c语言\内部算法排序比较\Debug\内部算法排序比较.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\experience\比特c语言\内部算法排序比较\Debug\内部算法排序比较.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\experience\比特c语言\内部算法排序比较\Debug\内部算法排序比较.lib" /MACHINE:X86 Debug\main.obj
+         内部算法排序比较.vcxproj -> E:\experience\比特c语言\内部算法排序比较\Debug\内部算法排序比较.exe
+     1>已完成生成项目“E:\experience\比特c语言\内部算法排序比较\内部算法排序比较\内部算法排序比较.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.56
